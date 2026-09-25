@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SW_uP_Boot")(type "KiCad")(uri "${KIPRJMOD}/components/SW_uP_Boot/SW_uP_Boot.kicad_sym")(options "")(descr ""))
+  (lib (name "MDBT42T-AT")(type "KiCad")(uri "${KIPRJMOD}/components/MDBT42T-AT/MDBT42T-AT.kicad_sym")(options "")(descr ""))
+  (lib (name "RGB_LED")(type "KiCad")(uri "${KIPRJMOD}/components/RGB_LED/RGB_LED.kicad_sym")(options "")(descr ""))
+)
